@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Amol Gode
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:17amolgode@gmail.com)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-550%2B_Problems-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/17amolgode/practice/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Problems-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/17amolgode/)
-
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/AmolGode)](mailto:17amolgode@gmail.com)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/17amolgode?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/17amolgode/)](https://leetcode.com/u/17amolgode/)](https://auth.geeksforgeeks.org/user/17amolgode/practice/)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Backend+Developer+%7C+Django+%7C+Flask+%7C+Celery;API+Developer+%7C+PostgreSQL+%7C+Docker;Problem+Solver+%7C+550%2B+DSA+Problems+Solved" />
@@ -58,16 +58,6 @@
 ✅ Solved **550+ DSA problems** on **GeeksForGeeks**.  
 ✅ Automated **delayed execution tasks** using **Celery**, improving system efficiency by **40%**.  
 ✅ Enhanced system logging, reducing debugging time by **25%**.
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amol-gode-26ba8321a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AmolGode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/17amolgode/practice/"><img src="https://img.shields.io/badge/GeeksForGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-</p>
 
 ---
 
