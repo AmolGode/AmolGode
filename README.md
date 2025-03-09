@@ -44,8 +44,17 @@
 - Implemented **end-to-end encryption** for enhanced security.
 
 ### 💼 [Hire Working Professionals](https://github.com/AmolGode/Hire_Working_Professionals_For_Short_Term_Work)
-- Developed a **centralized hiring platform** using **Django, Angular, PostgreSQL**.
+- Developed a **centralized hiring platform** using **Django, DRF, PostgreSQL, Angular**.
 - Integrated **Razorpay payment gateway** for seamless subscription-based payments.
+
+### 🏫 [College Campus](https://github.com/AmolGode/College-Campus)
+- Built a **college management system** using **Django, DRF, PostgreSQL, Angular**.
+- Managed **students, faculty, courses, and events**, improving administrative efficiency.
+
+### 🗳️ [Pollster](https://github.com/AmolGode/Pollster)
+- Built a **poll generation and voting platform** using **Django, Celery, MySQL, HTML, CSS**.
+- Automated **poll result processing** and optimized the voting system.
+
 
 ---
 
