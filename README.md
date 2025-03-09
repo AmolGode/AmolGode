@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Amol Gode
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amol-gode-26ba8321a)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:17amolgode@gmail.com)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-550%2B_Problems-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/17amolgode/practice/)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Backend+Developer+%7C+Django+%7C+Flask+%7C+Celery;API+Developer+%7C+PostgreSQL+%7C+Docker;Problem+Solver+%7C+550%2B+DSA+Problems+Solved" />
