@@ -47,7 +47,7 @@
 - Developed a **centralized hiring platform** using **Django, DRF, PostgreSQL, Angular**.
 - Integrated **Razorpay payment gateway** for seamless subscription-based payments.
 
-### 🏫 [College Campus](https://github.com/AmolGode/College-Campus)
+### 🏫 [College Campus](https://github.com/AmolGode/College-Campus-Angular-Django-Rest)
 - Built a **college management system** using **Django, DRF, PostgreSQL, Angular**.
 - Managed **students, faculty, courses, and events**, improving administrative efficiency.
 
