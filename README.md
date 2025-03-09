@@ -29,6 +29,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolGode&layout=compact&theme=tokyonight" />
 </p>
 
+### 🔥 Total Contributions
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmolGode&label=Total%20Contributions&color=brightgreen&style=flat-square" />
+</p>
+
 ---
 
 ## 📌 Featured Projects
