@@ -2,7 +2,7 @@
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:17amolgode@gmail.com)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-550%2B_Problems-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/17amolgode/practice/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/17amolgode/)](https://auth.geeksforgeeks.org/user/17amolgode/practice/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Problems-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/17amolgode/)
 
 
 <p align="center">
