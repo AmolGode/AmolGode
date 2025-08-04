@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-🔹 **Backend Developer** with **2.5+ years** of experience in **Django, Flask, DRF, and scalable system design**.  
+🔹 **Backend Developer** with **3+ years** of experience in **Django, Flask, DRF, and scalable system design**.  
 🔹 Passionate about **API development, Celery-based automation, and database optimization**.  
 🔹 Love solving complex problems (**550+ DSA problems solved** on **GeeksForGeeks**).  
 🔹 Always exploring new backend tech and optimizing systems!  
